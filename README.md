@@ -9,5 +9,5 @@
 
 ## Lcd
 - lcd [link](https://wokwi.com/projects/480810180973743105)
-- Runing Text[link]()
+- Runing Text [link]()
 
